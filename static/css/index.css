@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+#all{
+    width: 600px;
+    height: 1000px;
+    margin: 0 auto;
+}
+#main {
+    background-color: #325599;
+    text-align: center;
+    width: 100%;
+    height: 800px;
+    margin: 0 auto;
+    position: relative;
+    margin-top: 70px;
+}
+.me{
+    background-color: rgb(136, 255, 245);
+    text-align: center;
+    width: 350px;
+    margin: 0 auto;
+}
+
+.other{
+    background-color: #97fffa;
+    text-align: center;
+    width: 350px;
+    margin: 0 auto;
+}
+#input{
+    width: 100%;
+    height: 40px;
+    margin: 0 auto;
+    position: absolute;
+    bottom: 0;
+}
+#test{
+    width: 500px;
+    height: 100%;
+    margin-right: 10px;
+    float: left;
+}
+.btn-success{
+    width: 90px;
+    height: 100%;
+}
